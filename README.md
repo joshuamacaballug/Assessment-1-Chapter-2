@@ -11,7 +11,7 @@
 <body>
     <p><a href="#lec1">Proceed to Chapter 1</a></p>
     <p><a href="#lec2">Proceed to Chapter 2</a></p>
-    <p><a href="#lec4">Proceed to Chapter 3</a></p>
+    <p><a href="#lec3">Proceed to Chapter 3</a></p>
     <br />
     <br />
     <h2 id="lec1">Chapter 1</h2>
